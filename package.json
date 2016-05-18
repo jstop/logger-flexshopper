@@ -1,0 +1,25 @@
+{
+  "name": "logger-flexshopper",
+  "version": "1.0.0",
+  "description": "Logging Configuration for Flexshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlexShopper/logger-flexshopper.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Joshua Stein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlexShopper/logger-flexshopper/issues"
+  },
+  "homepage": "https://github.com/FlexShopper/logger-flexshopper#readme",
+  "dependencies": {
+    "winston": "^2.2.0"
+  }
+}
