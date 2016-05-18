@@ -54,4 +54,3 @@ console.debug = function(){
     logger.debug.apply(logger, formatArgs(arguments));
 };
 
-
