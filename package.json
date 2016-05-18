@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlexShopper/logger-flexshopper.git"
+    "url": "git+https://github.com/jstop/logger-flexshopper.git"
   },
   "keywords": [
     "logger"
@@ -16,9 +16,9 @@
   "author": "Joshua Stein",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlexShopper/logger-flexshopper/issues"
+    "url": "https://github.com/jstop/logger-flexshopper/issues"
   },
-  "homepage": "https://github.com/FlexShopper/logger-flexshopper#readme",
+  "homepage": "https://github.com/jstop/logger-flexshopper#readme",
   "dependencies": {
     "winston": "^2.2.0"
   }
