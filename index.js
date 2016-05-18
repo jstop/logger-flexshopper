@@ -1,7 +1,6 @@
-'use strict';
-
 var util = require('util'),
-    winston = require('winston');
+    winston = require('winston'),
+    logging_options = {};
 
 module.exports = {
     middleware: function(req, res, next){
