@@ -3,7 +3,7 @@
 ## Installation
 
 ```bashp
-npm install winston
+npm install git+ssh://git@github.com/jstop/logger-flexshopper.git 
 ```
 ## Using it
 
